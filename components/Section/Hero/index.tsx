@@ -79,8 +79,8 @@ const HeroSection = ({
         <Image
           src={imageUrl}
           alt="testing"
-          height={0}
-          width={0}
+          height={180}
+          width={200}
           className="min-h-[180px] w-full"
           quality={100}
         />

@@ -111,8 +111,8 @@ const FeatureSection = ({
               <Image
                 src={imageUrl}
                 alt="testing"
-                height={0}
-                width={0}
+                height={180}
+                width={200}
                 className="flex min-h-[180px] w-full justify-center rounded-lg object-cover shadow-lg md:h-[394px] lg:h-auto
 									lg:self-stretch 2xl:h-[450px]"
               />
